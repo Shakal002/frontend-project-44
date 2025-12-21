@@ -1,0 +1,1 @@
+console_log ("Welcome to the Brain Games!")
